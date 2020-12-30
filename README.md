@@ -1,3 +1,3 @@
 # djangoRestAPI
 
-First Django Rest API for collection of courses
+Django Rest API for making a collection of courses
